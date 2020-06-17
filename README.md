@@ -1,2 +1,2 @@
 # MedRating - тестовое задание
-[GitHub Pages][https://platonsolovyanov.github.io/MedRating/]
+(https://platonsolovyanov.github.io/MedRating/ "GitHub Pages")
