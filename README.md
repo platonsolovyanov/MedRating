@@ -1,2 +1,2 @@
 # MedRating - тестовое задание
-## https://platonsolovyanov.github.io/MedRating/
+#### [GitHub Pages][https://platonsolovyanov.github.io/MedRating/]
