@@ -229,7 +229,6 @@ class TabList {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    localStorage.clear();
     new Catalog();
     new TabList();
 })
